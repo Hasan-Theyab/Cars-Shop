@@ -21,6 +21,5 @@ if(favouriteCar=='Mercedes'){
 
 }else{
   document.write('<h3> Please only write Mercedes or Ford or Toyota next time</h3>');
-  confirm("Wrong Input. Please write Mercedes or Ford or Toytoa only. Other cars are not allowed");
 }
 
