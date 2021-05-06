@@ -19,6 +19,7 @@ if (favouriteCar == 'Mercedes') {
 } else if (favouriteCar === 'Toyota') {
   document.write('<img src="https://1.bp.blogspot.com/-xtIIyB5icWk/Xxn8s2D7lKI/AAAAAAAAHVY/ympfHyUnbowPe2aL-PbOCgACUXvIqajHgCLcBGAsYHQ/s1600/untitled_optimized%2B%25281%2529.jpg" width="250px">');
 
+<<<<<<< HEAD
 } else {
   document.write('<h3> please only write Mercedes or Ford or Toyota next time</h3>');
 }
@@ -55,3 +56,6 @@ if (cars > 5) {
     document.write('<img src="https://www.arabgt.com/wp-content/uploads/2019/12/2021-mercedes-s-class.jpg" width="50px">');
   }
 }
+=======
+}
+>>>>>>> 5196ee274f9d16183e38d0a4d8b7fd7533240ab4
