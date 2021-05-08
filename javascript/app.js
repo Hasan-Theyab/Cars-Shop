@@ -11,7 +11,7 @@ if (age >= 20) {
   alert("Please,enter numbers only.");
 }
 //This code to print the car's image on screen
-var favouriteCar = prompt("What do you like more Mercedes or Ford or Toyota.\nNote: This question is to show your favourite car's picture in the bottom of the site?");
+// var favouriteCar = prompt("What do you like more Mercedes or Ford or Toyota.\nNote: This question is to show your favourite car's picture in the bottom of the site?");
 // if (favouriteCar == 'Mercedes') {
 //   document.write('<img src="https://www.arabgt.com/wp-content/uploads/2019/12/2021-mercedes-s-class.jpg" width="250px">');
 // } else if (favouriteCar === 'Ford') {
