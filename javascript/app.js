@@ -12,6 +12,7 @@ if (age >= 20) {
 }
 
 
+
 //This code to loop entering until we gain acceptable value
 var favouriteCar = prompt('What is your favourite car: Mercedes or Ford or Toyota?\nNote: This question is to check your input is correct or not.');
 
